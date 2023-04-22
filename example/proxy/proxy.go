@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/appleboy/easyssh-proxy"
+	"github.com/senomas/easyssh-proxy"
 )
 
 func main() {
